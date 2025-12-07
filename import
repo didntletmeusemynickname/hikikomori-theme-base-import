@@ -1,3 +1,5 @@
+/* это же надо было админам так обосратся и опять что-то сломать */
+
 @media (min-width: 1024px) {
   .p-club_pages .new_comment .preview .b-comment .inner header,
   .p-club_pages .edit_comment .preview .b-comment .inner header {
@@ -114,7 +116,7 @@
     font-weight: 700;
   }
   body[data-user*=":2727,"] .l-footer::before {
-    content: "monochrome theme by 夜の子 v3.9.1";
+    content: "hikikomori-theme v3.9.6 by 夜の子⠀based on shiki-theme by grin3671";
   }
   .l-footer::after {
     display: none;
@@ -10621,7 +10623,7 @@
     line-height: 2em;
   }
   .l-footer::before {
-    content: "monochrome theme by 夜の子 v3.9.1";
+    content: "hikikomori-theme v3.9.6 by 夜の子⠀based on shiki-theme by grin3671";
     display: block;
     float: left;
     position: static;
@@ -22087,3 +22089,5 @@
     -moz-osx-font-smoothing: grayscale;
   }
 }
+
+/* конец */
