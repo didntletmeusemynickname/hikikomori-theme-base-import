@@ -1,5 +1,3 @@
-/* это же надо было админам так обосратся и опять что-то сломать */
-
 @media (min-width: 1024px) {
   .p-club_pages .new_comment .preview .b-comment .inner header,
   .p-club_pages .edit_comment .preview .b-comment .inner header {
